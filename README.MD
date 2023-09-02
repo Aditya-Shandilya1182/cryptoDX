@@ -1,1 +1,1 @@
-A CLI tool to assist crypto traders.
+A CLI tool to assist crypto traders to ease their job.
